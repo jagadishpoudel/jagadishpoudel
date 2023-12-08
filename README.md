@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/jagadish-poudel-705073217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadish-poudel-705073217" height="30" width="40" /></a>
 <a href="https://fb.com/jagadish.poudel.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadish.poudel.50" height="30" width="40" /></a>
 <a href="https://instagram.com/jagadish_poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagadish_poudel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codingwithjagadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithjagadish" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codingwithjagadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingwithjagadish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
