@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagadishpoudel&show_icons=true&locale=en&theme=default" alt="jagadishpoudel stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishpoudel&show_icons=true&locale=en&layout=compact" alt="jagadishpoudel top languages" height="165"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
